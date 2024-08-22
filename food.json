@@ -1,0 +1,194 @@
+[
+    {
+      "name": "Apple",
+      "calories": 52,
+      "protein": 0.3,
+      "fat": 0.2,
+      "fiber": 2.4,
+      "carbohydrates": 14
+    },
+    {
+      "name": "Banana",
+      "calories": 89,
+      "protein": 1.1,
+      "fat": 0.3,
+      "fiber": 2.6,
+      "carbohydrates": 23
+    },
+    {
+      "name": "Pizza",
+      "calories": 165,
+      "protein": 31,
+      "fat": 3.6,
+      "fiber": 0,
+      "carbohydrates": 0
+    },
+    {
+      "name": "Broccoli",
+      "calories": 55,
+      "protein": 3.7,
+      "fat": 0.6,
+      "fiber": 2.4,
+      "carbohydrates": 11
+    },
+    {
+      "name": "Almonds",
+      "calories": 579,
+      "protein": 21,
+      "fat": 49,
+      "fiber": 12.5,
+      "carbohydrates": 22
+    },
+    {
+      "name": "Salmon",
+      "calories": 208,
+      "protein": 20,
+      "fat": 13,
+      "fiber": 0,
+      "carbohydrates": 0
+    },
+    {
+      "name": "Oats",
+      "calories": 389,
+      "protein": 16.9,
+      "fat": 6.9,
+      "fiber": 10.6,
+      "carbohydrates": 66.3
+    },
+    {
+      "name": "Egg",
+      "calories": 155,
+      "protein": 13,
+      "fat": 11,
+      "fiber": 0,
+      "carbohydrates": 1.1
+    },
+    {
+      "name": "Spinach",
+      "calories": 23,
+      "protein": 2.9,
+      "fat": 0.4,
+      "fiber": 2.2,
+      "carbohydrates": 3.6
+    },
+    {
+      "name": "Sweet Potato",
+      "calories": 86,
+      "protein": 1.6,
+      "fat": 0.1,
+      "fiber": 3,
+      "carbohydrates": 20
+    },
+    {
+      "name": "Carrot",
+      "calories": 41,
+      "protein": 0.9,
+      "fat": 0.2,
+      "fiber": 2.8,
+      "carbohydrates": 10
+    },
+    {
+      "name": "Chicken Breast",
+      "calories": 165,
+      "protein": 31,
+      "fat": 3.6,
+      "fiber": 0,
+      "carbohydrates": 0
+    },
+    {
+      "name": "Beef",
+      "calories": 250,
+      "protein": 26,
+      "fat": 15,
+      "fiber": 0,
+      "carbohydrates": 0
+    },
+    {
+      "name": "Pork",
+      "calories": 242,
+      "protein": 27,
+      "fat": 14,
+      "fiber": 0,
+      "carbohydrates": 0
+    },
+    {
+      "name": "Turkey",
+      "calories": 208,
+      "protein": 29,
+      "fat": 10,
+      "fiber": 0,
+      "carbohydrates": 0
+    },
+    {
+      "name": "Tofu",
+      "calories": 144,
+      "protein": 14,
+      "fat": 9,
+      "fiber": 1.9,
+      "carbohydrates": 3.2
+    },
+    {
+      "name": "Lentils",
+      "calories": 116,
+      "protein": 9,
+      "fat": 0.4,
+      "fiber": 8,
+      "carbohydrates": 20
+    },
+    {
+      "name": "Chickpeas",
+      "calories": 164,
+      "protein": 9,
+      "fat": 3,
+      "fiber": 8,
+      "carbohydrates": 27
+    },
+    {
+      "name": "Quinoa",
+      "calories": 120,
+      "protein": 4.4,
+      "fat": 1.9,
+      "fiber": 2.8,
+      "carbohydrates": 21
+    },
+    {
+      "name": "Brown Rice",
+      "calories": 111,
+      "protein": 2.6,
+      "fat": 0.9,
+      "fiber": 1.8,
+      "carbohydrates": 23
+    },
+    {
+      "name": "Pasta",
+      "calories": 131,
+      "protein": 5,
+      "fat": 0.5,
+      "fiber": 2.5,
+      "carbohydrates": 25
+    },
+    {
+      "name": "Bread",
+      "calories": 265,
+      "protein": 9,
+      "fat": 2,
+      "fiber": 3,
+      "carbohydrates": 49
+    },
+    {
+      "name": "Milk",
+      "calories": 42,
+      "protein": 3.4,
+      "fat": 1,
+      "fiber": 0,
+      "carbohydrates": 5
+    },
+    {
+      "name": "Cheese",
+      "calories": 402,
+      "protein": 25,
+      "fat": 33,
+      "fiber": 0,
+      "carbohydrates": 1.3
+    }
+  ]
